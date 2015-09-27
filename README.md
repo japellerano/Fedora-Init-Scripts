@@ -19,6 +19,9 @@ Basic shell scripts to setup a new Fedora installation.
 - [ ] RVM
 - [ ] Hosts
 - [ ] NFS Shares
+- [ ] RPM Fusion Packages
+  - [x] RPM Fusion installation
+  - [ ] Selection of free only or both or none
 
 ## III. Usage
 
